@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Right Door Open
+  m_Name: Tilting Bumpy Ramp
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -20,15 +20,15 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: 34.107616, y: 0, z: 0}
+        outSlope: {x: 34.107616, y: 0, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.5695524, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 1
-        value: {x: 0, y: -100.773, z: 0}
+        value: {x: 37.394, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -38,15 +38,15 @@ AnimationClip:
       - serializedVersion: 3
         time: 2
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 100.773, z: 0}
-        outSlope: {x: 0, y: 100.773, z: 0}
+        inSlope: {x: -37.394, y: 0, z: 0}
+        outSlope: {x: -37.394, y: 0, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 3
-        value: {x: 0, y: 100.773, z: 0}
+        value: {x: -37.394, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -56,11 +56,11 @@ AnimationClip:
       - serializedVersion: 3
         time: 4
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: 44.56745, y: 0, z: 0}
+        outSlope: {x: 44.56745, y: 0, z: 0}
         tangentMode: 0
         weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        inWeight: {x: 0.1875143, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -115,15 +115,15 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        inSlope: 34.107616
+        outSlope: 34.107616
+        tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.33333334
+        outWeight: 0.5695524
       - serializedVersion: 3
         time: 1
-        value: 0
+        value: 37.394
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -133,15 +133,15 @@ AnimationClip:
       - serializedVersion: 3
         time: 2
         value: 0
-        inSlope: 0
-        outSlope: 0
+        inSlope: -37.394
+        outSlope: -37.394
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 3
-        value: 0
+        value: -37.394
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -151,11 +151,11 @@ AnimationClip:
       - serializedVersion: 3
         time: 4
         value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        inSlope: 44.56745
+        outSlope: 44.56745
+        tangentMode: 0
         weightedMode: 0
-        inWeight: 0.33333334
+        inWeight: 0.1875143
         outWeight: 0.33333334
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -164,7 +164,7 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-    flags: 16
+    flags: 0
   - serializedVersion: 2
     curve:
       serializedVersion: 2
@@ -180,7 +180,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: -100.773
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -190,15 +190,15 @@ AnimationClip:
       - serializedVersion: 3
         time: 2
         value: 0
-        inSlope: 100.773
-        outSlope: 100.773
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 3
-        value: 100.773
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -221,7 +221,7 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-    flags: 16
+    flags: 0
   - serializedVersion: 2
     curve:
       serializedVersion: 2
@@ -278,7 +278,7 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-    flags: 16
+    flags: 0
   m_EulerEditorCurves:
   - serializedVersion: 2
     curve:
