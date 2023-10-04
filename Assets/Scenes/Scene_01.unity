@@ -6560,6 +6560,7 @@ MonoBehaviour:
     RefIds:
     - rid: 8635755006704746503
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
 --- !u!114 &1480341513
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34742,7 +34743,7 @@ PrefabInstance:
     - target: {fileID: 3125402386587109673, guid: 6e43434622bb0c246a594c127c308845,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 19.25
+      value: 19.125
       objectReference: {fileID: 0}
     - target: {fileID: 3125402386587109673, guid: 6e43434622bb0c246a594c127c308845,
         type: 3}
